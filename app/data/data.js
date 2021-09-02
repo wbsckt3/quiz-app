@@ -1,7 +1,7 @@
 export default [
     {
-        question: 'What does CSS stand for?',
-        answers: ['Computer Style Sheets', 'Creative Style Sheets', 'Cascading Style Sheets', 'Colorful Style Sheets'],
+        question: 'Las figuras A, B, C están construidas con unidades cúbicas iguales. De las siguientes afirmaciones, la única verdadera es: ',
+        answers: ['Los volúmenes de A y B son iguales.', 'Los volúmenes de A y B son iguales.', 'Los volúmenes de A y B son iguales.', 'Los volúmenes de A, B y C son todos diferentes'],
         correct: 3
     },
 
